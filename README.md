@@ -1,3 +1,3 @@
-# lase_calc
+## Lase_calculator
 
-calc volume under point's cloud
+A program that receives an image of a truck from a camera and allows you to view it
